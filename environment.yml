@@ -2,7 +2,12 @@ name: p4env37
 channels:
   - psi4/label/dev
   - defaults
+  - conda-forge
 dependencies:
   - python=3.7
   - psi4
   - dftd3
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - rdkit
