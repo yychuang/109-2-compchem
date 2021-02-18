@@ -3,6 +3,6 @@ matplotlib
 jupyterlab==1.1.4
 openchemistry==0.0.19
 py3dmol==0.9.1
-psi4
+#psi4
 #pythreejs==2.2.1
 #fortecubeview==0.2.2
