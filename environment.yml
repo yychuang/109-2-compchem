@@ -1,15 +1,19 @@
 name: compchem
-#channels:
-#  - psi4/label/dev
-#  - conda-forge  
+
 channels:
+  - psi4/label/dev
   - conda-forge
+
 dependencies:
   - python
   - numpy
   - rdkit
   - ipywidgets
   - widgetsnbextension
+  - psi4
+  - dftd3
+  - scikit-learn
+  - seaborn
   - pip
   - pip:
     - nbgitpuller
@@ -18,18 +22,6 @@ dependencies:
     - matplotlib
     - py3Dmol
 
-#dependencies:
-#  - python==3.7
-#  - psi4
-#  - dftd3
-#  - scikit-learn
-#  - seaborn
-#  - matplotlib
-#  - numpy
-#  - rdkit
-#  - ipwidgets
-#  - widgetsnbextension
-#  - pip
 #  - pip:
 #    - py3Dmol
 #    - jupyterlab==1.1.4
