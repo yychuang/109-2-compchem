@@ -10,5 +10,6 @@ Working
 * RDKIT
 * py3Dmol
 * ipwidgets
+* PSI4
 * 
 
