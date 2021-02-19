@@ -11,5 +11,6 @@ Working
 * py3Dmol
 * ipwidgets
 * PSI4
+* psikit
 * 
 
