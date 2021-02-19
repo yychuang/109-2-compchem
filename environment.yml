@@ -18,6 +18,7 @@ dependencies:
   - seaborn
   - debtcollector
   - psikit
+  - resp
   - pip
   - pip:
     - nbgitpuller
