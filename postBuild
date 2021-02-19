@@ -1,10 +1,8 @@
-# py3Dmol
+# py3dmol
 jupyter labextension install jupyterlab_3dmol
 
 # ipwidgets nb
 jupyter nbextension enable --py widgetsnbextension
-
-# ipwidgets lab
 
 #jupyter labextension install @openchemistry/jupyterlab
 
