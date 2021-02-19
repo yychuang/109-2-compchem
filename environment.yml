@@ -21,6 +21,9 @@ dependencies:
     - pandas
     - matplotlib
     - py3Dmol
+    - pythreejs
+    - fortecubeview
+    
 
 #  - pip:
 #    - py3Dmol
