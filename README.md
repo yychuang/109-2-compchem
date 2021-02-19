@@ -9,5 +9,6 @@
 Working
 * RDKIT
 * py3Dmol
+* ipwidgets
 * 
 
