@@ -3,10 +3,12 @@ name: compchem
 channels:
   - psi4/label/dev
   - conda-forge
-
+  - iwatobipen
+  
 dependencies:
   - python
   - numpy
+  - scipy
   - rdkit
   - ipywidgets
   - widgetsnbextension
@@ -14,6 +16,8 @@ dependencies:
   - dftd3
   - scikit-learn
   - seaborn
+  - debtcollector
+  - psikit
   - pip
   - pip:
     - nbgitpuller
