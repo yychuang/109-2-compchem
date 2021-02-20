@@ -6,11 +6,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/109-2-compchem/HEAD?urlpath=lab) (jupyter lab)
 
 
-Working
+Working in notebook
 * RDKIT
 * py3Dmol
 * ipwidgets
 * PSI4
 * psikit
-* 
+* fortecubeview
 
