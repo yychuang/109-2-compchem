@@ -30,7 +30,7 @@ dependencies:
     - py3Dmol
     - pythreejs
     - fortecubeview
-#    - jupyterlab==1.1.4
-#    - openchemistry==0.0.19
-#    - jupyterlab_launcher>=0.5.0
-#    - avogadro
+    # - jupyterlab==1.1.4
+    - openchemistry==0.0.19
+    - jupyterlab_launcher>=0.5.0
+    - avogadro
