@@ -16,5 +16,5 @@ Working in notebook
 * fortecubeview
 * openchemistry
 
-JupuyterLab is not working
+JupuyterLab is not working at all
 
