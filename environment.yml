@@ -15,6 +15,7 @@ dependencies:
   - psi4
   - dftd3
   - scikit-learn
+  - scikit-image
   - seaborn
   - debtcollector
   - psikit
